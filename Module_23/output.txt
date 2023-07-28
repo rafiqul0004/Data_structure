@@ -1,0 +1,5 @@
+rahim 1 90
+rahat 12 90
+fahad 2 89
+forid 68 89
+karim 36 87
